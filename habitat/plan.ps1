@@ -1,5 +1,5 @@
 $pkg_name="habitat-aspnet-sample"
-$pkg_origin="core"
+$pkg_origin="blackhole"
 $pkg_version="0.2.0"
 $pkg_upstream_url="https://github.com/mwrock/habitat-aspnet-sample"
 $pkg_maintainer="The Habitat Maintainers <humans@habitat.sh>"
